@@ -975,3 +975,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Mar2025 00:33:17.172] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Timed out
 [21Mar2025 00:33:17.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
 [21Mar2025 00:33:17.173] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client davixelpro123
+[21Mar2025 00:40:57.825] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/172.23.94.5:64854] logged in with entity id 1821 at (-110.17654060906364, 66.19997496592671, 68.22196873964566)
+[21Mar2025 00:40:57.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
+[21Mar2025 00:41:00.097] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of davixelpro123 (18)
+[21Mar2025 00:41:00.098] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to davixelpro123
+[21Mar2025 00:41:44.073] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Timed out
+[21Mar2025 00:41:44.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
+[21Mar2025 00:41:44.074] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client davixelpro123
+[21Mar2025 00:42:44.325] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/172.23.94.5:65043] logged in with entity id 2098 at (-110.17654060906364, 66.19997496592671, 68.22196873964566)
+[21Mar2025 00:42:44.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
+[21Mar2025 00:42:48.523] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of davixelpro123 (18)
+[21Mar2025 00:42:48.524] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to davixelpro123
+[21Mar2025 00:43:41.324] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Timed out
+[21Mar2025 00:43:41.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
+[21Mar2025 00:43:41.325] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client davixelpro123
+[21Mar2025 00:44:56.974] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/172.23.94.5:65255] logged in with entity id 2382 at (-110.17654060906364, 66.19997496592671, 68.22196873964566)
+[21Mar2025 00:44:57.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
+[21Mar2025 00:44:58.475] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of davixelpro123 (18)
+[21Mar2025 00:44:58.476] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to davixelpro123
+[21Mar2025 00:45:18.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[21Mar2025 00:45:51.126] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Timed out
+[21Mar2025 00:45:51.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
+[21Mar2025 00:45:51.127] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client davixelpro123
